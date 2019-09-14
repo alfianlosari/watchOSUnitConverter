@@ -1,4 +1,4 @@
-# watchOS wiftUI Unit Converter App
+# watchOS SwiftUI Unit Converter App
 
 ![Alt text](./promo.png?raw=true "watchOS Converter App")
 
